@@ -1,2 +1,4 @@
 networkx>=2.2
-matplotlib>=3.0.0
+matplotlib==2.2.3
+numpy>=1.15.2
+pyshp>=1.2.12
